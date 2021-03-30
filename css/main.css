@@ -15,6 +15,10 @@ a {
   display: inline;
   color: black;
 }
+.grid-container {
+  max-width: 980px;
+  margin: auto;
+}
 header {
   width: 100%;
   min-width: 320px;
