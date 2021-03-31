@@ -161,3 +161,44 @@ footer p {
   color: white;
   margin-top: 30px;
 }
+.blogpost__img-container {
+  padding: 0 50px 40px;
+}
+.blogpost__img-container img {
+  width: 100%;
+}
+.blogpost__post-container {
+  height: auto;
+  padding: 0 80px 40px;
+}
+.blogpost__post-container h3 {
+  padding: 10px;
+  border-bottom: 1px solid #e0e3e8;
+}
+.blogpost__post-container h1 {
+  font-size: 30px;
+}
+.contact-container {
+  width: 100%;
+  min-height: 250px;
+  background-color: #e6e9ed;
+  text-align: center;
+  padding-bottom: 50px;
+}
+.contact-container div {
+  display: inline-block;
+  width: 49.5%;
+  height: 100%;
+}
+.contact-container div a {
+  border-bottom: 1px solid black;
+  padding-bottom: 5px;
+}
+.contact-container .contact-left,
+.contact-right {
+  text-align: initial;
+  margin-top: 85px;
+}
+.contact-container img {
+  width: 100px;
+}
